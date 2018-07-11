@@ -1,4 +1,4 @@
-# zero
+# purify
 
 > oh-my-zsh theme
 
@@ -9,14 +9,14 @@
 ## Install
 
 ```
-$ git clone https://github.com/banminkyoz/zero.git
-$ cd zero 
-$ cp zero.zsh-theme ~/.oh-my-zsh/themes/
+$ git clone https://github.com/banminkyoz/purify.git
+$ cd purify
+$ cp purify.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
 ## Usage
 
-In your `.zshrc`, set `ZSH_THEME="zero"`. 
+In your `.zshrc`, set `ZSH_THEME="purify"`.
 
 Restart terminal and enjoy.
 
