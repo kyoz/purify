@@ -7,19 +7,19 @@
 ### Ubuntu + Hyper
 
 <p align="center">
-  <img src="demo/demo_ubuntu_hyper.png" width="800px">
+  <img src="demo/demo_ubuntu_hyper.png" width="600px">
 </p>
 
 ### Ubuntu + Gnome Terminal
 
 <p align="center">
-  <img src="demo/demo_ubuntu_gnome.png" width="800px">
+  <img src="demo/demo_ubuntu_gnome.png" width="600px">
 </p>
 
 ### OSX + Iterm2
 
 <p align="center">
-  <img src="demo/demo_osx_iterm2.png" width="800px">
+  <img src="demo/demo_osx_iterm2.png" width="600px">
 </p>
 
 ## Install
