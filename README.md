@@ -2,11 +2,25 @@
 
 > oh-my-zsh theme
 
+## Demo
+
+### Ubuntu + Hyper
+
 <p align="center">
-  <img src="demo.png" width="800px">
+  <img src="demo/demo_ubuntu_hyper.png" width="800px">
 </p>
 
-[Ubuntu demo](demo_ubuntu.png)
+### Ubuntu + Gnome Terminal
+
+<p align="center">
+  <img src="demo/demo_ubuntu_gnome.png" width="800px">
+</p>
+
+### OSX + Iterm2
+
+<p align="center">
+  <img src="demo/demo_osx_iterm2.png" width="800px">
+</p>
 
 ## Install
 
@@ -26,8 +40,9 @@ Restart terminal and enjoy.
 
 ### In the demo screenshot, i do use:
 
-* Iterm2 with oh-my-zsh
 * PragmataPro font
+* **Ubuntu**: Hyper with hyper-snazzy theme
+* **OSX**: Iterm2 with oh-my-zsh for ios
 
 You can get bash, git & oh-my-zsh configs, aliases... in [my dotfiles](https://github.com/banminkyoz/dotfiles)
 
