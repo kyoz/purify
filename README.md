@@ -4,22 +4,28 @@
 
 ## Demo
 
-### Ubuntu + Hyper
+### 1. OSX + Hyper
+
+<p align="center">
+  <img src="demo/demo_osx_hyper.png" width="700px">
+</p>
+
+### 2. OSX + Iterm2
+
+<p align="center">
+  <img src="demo/demo_osx_iterm2.png" width="700px">
+</p>
+
+### 3. Ubuntu + Hyper
 
 <p align="center">
   <img src="demo/demo_ubuntu_hyper.png" width="600px">
 </p>
 
-### Ubuntu + Gnome Terminal
+### 4. Ubuntu + Gnome Terminal
 
 <p align="center">
   <img src="demo/demo_ubuntu_gnome.png" width="600px">
-</p>
-
-### OSX + Iterm2
-
-<p align="center">
-  <img src="demo/demo_osx_iterm2.png" width="600px">
 </p>
 
 ## Install
@@ -40,9 +46,17 @@ Restart terminal and enjoy.
 
 ### In the demo screenshot, i do use:
 
-* PragmataPro font
-* **Ubuntu**: Hyper with hyper-snazzy theme
-* **OSX**: Iterm2 with oh-my-zsh for ios
+* [Iosevka](https://github.com/be5invis/Iosevka) font (FREE)
+
+* **OSX**:
+
+  1. Hyper with [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme
+  2. Iterm2 with oh-my-zsh
+
+* **Ubuntu**:
+
+  3. Hyper with [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme
+  4. Gnome Terminal
 
 You can get bash, git & oh-my-zsh configs, aliases... in [my dotfiles](https://github.com/banminkyoz/dotfiles)
 

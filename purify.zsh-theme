@@ -16,7 +16,7 @@ ${current_dir}${git_branch}
 ${user_symbol} "
 RPS1="%B${return_code}%b"
 
-ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[123]%} ⇢ "
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$FG[123]%} ⇢  "
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_DIRTY=" %{$FG[009]%}!%{$reset_color%}"
 ZSH_THEME_GIT_PROMPT_CLEAN=" %{$FG[048]%}√%{$reset_color%}"
