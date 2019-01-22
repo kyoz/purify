@@ -28,13 +28,13 @@
   <img src="demo/ubuntu_hyper.png" width="600px">
 </p>
 
-### 4. Ubuntu + Alacritty
+### 5. Ubuntu + Alacritty
 
 <p align="center">
   <img src="demo/ubuntu_alacritty.png" width="600px">
 </p>
 
-### 5. Ubuntu + Gnome Terminal
+### 6. Ubuntu + Gnome Terminal
 
 <p align="center">
   <img src="demo/ubuntu_gnome.png" width="600px">
