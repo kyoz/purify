@@ -7,37 +7,37 @@
 ### 1. OSX + Hyper
 
 <p align="center">
-  <img src="demo/osx_hyper.png" width="700px">
+  <img src="demo/osx_hyper.png" width="900px">
 </p>
 
 ### 2. OSX + Alacritty
 
 <p align="center">
-  <img src="demo/osx_alacritty.png" width="700px">
+  <img src="demo/osx_alacritty.png" width="900px">
 </p>
 
 ### 3. OSX + Iterm2
 
 <p align="center">
-  <img src="demo/osx_iterm2.png" width="700px">
+  <img src="demo/osx_iterm2.png" width="900px">
 </p>
 
 ### 4. Ubuntu + Hyper
 
 <p align="center">
-  <img src="demo/ubuntu_hyper.png" width="600px">
+  <img src="demo/ubuntu_hyper.png" width="750px">
 </p>
 
 ### 5. Ubuntu + Alacritty
 
 <p align="center">
-  <img src="demo/ubuntu_alacritty.png" width="600px">
+  <img src="demo/ubuntu_alacritty.png" width="750px">
 </p>
 
 ### 6. Ubuntu + Gnome Terminal
 
 <p align="center">
-  <img src="demo/ubuntu_gnome.png" width="600px">
+  <img src="demo/ubuntu_gnome.png" width="750px">
 </p>
 
 ## Install
