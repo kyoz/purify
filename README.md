@@ -7,25 +7,37 @@
 ### 1. OSX + Hyper
 
 <p align="center">
-  <img src="demo/demo_osx_hyper.png" width="700px">
+  <img src="demo/osx_hyper.png" width="700px">
 </p>
 
-### 2. OSX + Iterm2
+### 2. OSX + Alacritty
 
 <p align="center">
-  <img src="demo/demo_osx_iterm2.png" width="700px">
+  <img src="demo/osx_alacritty.png" width="700px">
 </p>
 
-### 3. Ubuntu + Hyper
+### 3. OSX + Iterm2
 
 <p align="center">
-  <img src="demo/demo_ubuntu_hyper.png" width="600px">
+  <img src="demo/osx_iterm2.png" width="700px">
 </p>
 
-### 4. Ubuntu + Gnome Terminal
+### 4. Ubuntu + Hyper
 
 <p align="center">
-  <img src="demo/demo_ubuntu_gnome.png" width="600px">
+  <img src="demo/ubuntu_hyper.png" width="600px">
+</p>
+
+### 4. Ubuntu + Alacritty
+
+<p align="center">
+  <img src="demo/ubuntu_alacritty.png" width="600px">
+</p>
+
+### 5. Ubuntu + Gnome Terminal
+
+<p align="center">
+  <img src="demo/ubuntu_gnome.png" width="600px">
 </p>
 
 ## Install
@@ -79,6 +91,8 @@ vte-terminal {
 ```
 
 ## References
+* [CLI to get inspirational quotes](https://github.com/banminkyoz/iquotes-cli)
+* [Init node project easily](https://github.com/banminkyoz/pji)
 * [Bash colors & formating](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
 * [ASCII Art](https://textart4u.blogspot.com/2013/03/one-line-ascii-text-art.html)
 
