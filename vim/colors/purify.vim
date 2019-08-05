@@ -586,4 +586,25 @@ augroup END
 
 " }}}
 
+" Plugins {{{
+
+" fzf
+" https://github.com/junegunn/fzf/wiki/Color-schemes
+let g:fzf_colors =
+\ { 'fg':      ['fg', 'Normal'],
+  \ 'bg':      ['bg', 'Normal'],
+  \ 'hl':      ['fg', 'String'],
+  \ 'hl+':     ['fg', 'Statement'],
+  \ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+  \ 'bg+':     ['bg', 'CursorLine', 'CursorColumn'],
+  \ 'info':    ['fg', 'Keyword'],
+  \ 'border':  ['fg', 'Ignore'],
+  \ 'prompt':  ['fg', 'Statement'],
+  \ 'pointer': ['fg', 'Statement'],
+  \ 'marker':  ['fg', 'Keyword'],
+  \ 'spinner': ['fg', 'Label'],
+  \ 'header':  ['fg', 'Comment'] }
+
+" }}}
+
 execute 'set background=dark'
