@@ -588,7 +588,7 @@ augroup END
 
 " Plugins {{{
 
-" fzf
+" fzf.vim
 " https://github.com/junegunn/fzf/wiki/Color-schemes
 let g:fzf_colors =
 \ { 'fg':      ['fg', 'Normal'],
@@ -604,6 +604,12 @@ let g:fzf_colors =
   \ 'marker':  ['fg', 'Keyword'],
   \ 'spinner': ['fg', 'Label'],
   \ 'header':  ['fg', 'Comment'] }
+
+" vim-easymotion
+call s:h("EasyMotionTarget",        { "fg": s:pink, "gui": "bold", "cterm": "bold" })
+call s:h("EasyMotionTarget2First",  { "fg": s:green, "gui": "bold", "cterm": "bold" })
+call s:h("EasyMotionTarget2Second", { "fg": s:blue, "gui": "bold", "cterm": "bold" })
+call s:h("EasyMotionShade",         { "fg": s:comment_grey })
 
 " }}}
 
