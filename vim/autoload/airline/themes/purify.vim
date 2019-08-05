@@ -12,16 +12,16 @@ let g:airline#themes#purify#palette = {}
 
 function! airline#themes#purify#refresh()
     " Define colors
-    let g:colors = purify#get_colors()
+    let s:colors = purify#get_colors()
 
-    let s:black       = g:colors.black
-    let s:white       = g:colors.white
-    let s:pink        = g:colors.pink
-    let s:salmon      = g:colors.salmon
-    let s:green       = g:colors.green
-    let s:blue        = g:colors.blue
-    let s:pink        = g:colors.pink
-    let s:visual_grey = g:colors.visual_grey
+    let s:black       = s:colors.black
+    let s:white       = s:colors.white
+    let s:pink        = s:colors.pink
+    let s:salmon      = s:colors.salmon
+    let s:green       = s:colors.green
+    let s:blue        = s:colors.blue
+    let s:pink        = s:colors.pink
+    let s:visual_grey = s:colors.visual_grey
 
     " Define palette
     let s:group = airline#themes#get_highlight('vimCommand')
