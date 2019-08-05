@@ -606,10 +606,10 @@ let g:fzf_colors =
   \ 'header':  ['fg', 'Comment'] }
 
 " vim-easymotion
-call s:h("EasyMotionTarget",        { "fg": s:pink, "gui": "bold", "cterm": "bold" })
-call s:h("EasyMotionTarget2First",  { "fg": s:green, "gui": "bold", "cterm": "bold" })
-call s:h("EasyMotionTarget2Second", { "fg": s:blue, "gui": "bold", "cterm": "bold" })
-call s:h("EasyMotionShade",         { "fg": s:comment_grey })
+call s:hi("EasyMotionTarget",        { "fg": s:green })
+call s:hi("EasyMotionTarget2First",  { "fg": s:green })
+call s:hi("EasyMotionTarget2Second", { "fg": s:blue })
+call s:hi("EasyMotionShade",         { "fg": s:comment_grey })
 
 " }}}
 
