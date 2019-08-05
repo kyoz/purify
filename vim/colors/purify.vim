@@ -8,34 +8,6 @@
 " Clean and beautiful colorscheme for vim (neovim)
 " ==============================================================================
 
-" Color Pallete {{{
-
-" +--------------------------------+
-" |  Color Name  | Hex     | cterm |
-" |--------------+---------+-------|
-" | Black        | #282C34 | 235   |
-" |--------------+---------+-------|
-" | White        | #FFFFFF | 15    |
-" |--------------+---------+-------|
-" | Red          | #FF0000 | 196   |
-" |--------------+---------+-------|
-" | Green        | #5FFF87 | 84    |
-" |--------------+---------+-------|
-" | Blue         | #5FAFFF | 75    |
-" |--------------+---------+-------|
-" | Yellow       | #FFFF87 | 228   |
-" |--------------+---------+-------|
-" | Pink         | #FF79C6 | 212   |
-" |--------------+---------+-------|
-" | Salmon       | #FF875F | 209   |
-" |--------------+---------+-------|
-" | Pulple       | #AF87FF | 141   |
-" |--------------+---------+-------|
-" | Dark yellow  | #D19A66 | 173   |
-" |--------------+---------+-------|
-
-" }}}
-
 highlight clear
 
 if exists('syntax_on')
@@ -52,28 +24,29 @@ let g:colors_name = 'purify'
 
 " Color Defines {{{
 
+let s:colors = purify#get_colors()
+
 " Main colors
-let s:black          = { 'gui': '#282C34', 'cterm': '235' }
-let s:white          = { 'gui': '#FFFFFF', 'cterm': '15' }
-let s:red            = { 'gui': '#FF0000', 'cterm': '196' }
-let s:green          = { 'gui': '#5FFF87', 'cterm': '84' }
-let s:blue           = { 'gui': '#5FAFFF', 'cterm': '75' }
-let s:yellow         = { 'gui': '#FFFF87', 'cterm': '228' }
-let s:pink           = { 'gui': '#FF79C6', 'cterm': '212' }
-let s:salmon         = { 'gui': '#FF875F', 'cterm': '209' }
-let s:purple         = { 'gui': '#AF87FF', 'cterm': '141' }
-let s:dark_yellow    = { 'gui': '#D19A66', 'cterm': '173' }
+let s:black = s:colors.black
+let s:white = s:colors.white
+let s:red = s:colors.red
+let s:green = s:colors.green
+let s:blue = s:colors.blue
+let s:yellow = s:colors.yellow
+let s:pink = s:colors.pink
+let s:salmon = s:colors.salmon
+let s:purple = s:colors.purple
+let s:dark_yellow = s:colors.dark_yellow
 
 " Other colors
-let s:comment_grey   = { 'gui': '#5F5F87', 'cterm': '61' }
-let s:cursor_grey    = { 'gui': '#2C323C', 'cterm': '236' }
-let s:gutter_grey_fg = { 'gui': '#4B5263', 'cterm': '238' }
-let s:blur_grey      = { 'gui': '#3B4048', 'cterm': '238' }
-let s:menu_grey      = { 'gui': '#3E4452', 'cterm': '237' }
-
-let s:visual_grey    = { 'gui': '#3E4452', 'cterm': '237' }
-let s:visual_black   = { 'gui': 'NONE', 'cterm': 'NONE' }
-let s:none           = { 'gui': 'NONE', 'cterm': 'NONE' }
+let s:comment_grey = s:colors.comment_grey
+let s:cursor_grey = s:colors.cursor_grey
+let s:gutter_grey_fg = s:colors.gutter_grey_fg
+let s:blur_grey = s:colors.blur_grey
+let s:menu_grey = s:colors.menu_grey
+let s:visual_grey = s:colors.visual_grey
+let s:visual_black = s:colors.visual_black
+let s:none = s:colors.none
 
 " }}}
 
