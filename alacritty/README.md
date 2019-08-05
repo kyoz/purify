@@ -4,7 +4,7 @@
 ## Demo
 
 <p align="center">
-  <img src="../zsh/demo/osx_hyper.png" width="900px">
+  <img src="../demo/alacritty.png" width="900px">
 </p>
 
 ## Installation
