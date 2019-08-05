@@ -1,7 +1,7 @@
 " ==============================================================================
-" Name:       purify.vim
+" Name:       purify
 " Author:     Kyoz
-" Repository: https://github.com/kyoz/purify.vim/
+" Repository: https://github.com/kyoz/purify/
 " License:    The MIT License (MIT)
 " Copyright:  Kyoz (banminkyoz@gmail.com)
 " 
