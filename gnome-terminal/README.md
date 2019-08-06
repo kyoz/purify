@@ -4,7 +4,7 @@
 ## Demo
 
 <p align="center">
-  <img src="../demo/gnome-terminal.png" width="900px">
+  <img src="../demo/gnome-terminal.png" width="800px">
 </p>
 
 ## Installation
