@@ -54,9 +54,7 @@ In your `.zshrc`, set `ZSH_THEME="purify"`.
 
 Restart terminal and enjoy.
 
-## Tips
-
-### In the demo screenshot, i do use:
+## What i'v used in the demo ?
 
 * [Iosevka](https://github.com/be5invis/Iosevka) font (FREE)
 

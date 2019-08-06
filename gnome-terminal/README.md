@@ -24,9 +24,7 @@ bash ./purify.sh
 
 Then you can select `Purify` profile in `Preferences` (Restart terminal maybe required)
 
-### Tips
-
-To have padding in gnome terminal, follow these steps:
+## To have padding in gnome terminal:
 
 Create `gtk.css` file at `~/.config/gtk-3.0`
 
