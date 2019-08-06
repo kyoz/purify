@@ -4,7 +4,7 @@
 ## Demo
 
 <p align="center">
-  <img src="../demo/kitty.png" width="800px">
+  <img src="../demo/kitty.png" width="900px">
 </p>
 
 ## Installation
