@@ -16,7 +16,7 @@ Download and copy `purify.conf` to `~/.config/kitty/` folder.
 wget -O ~/.config/kitty/purify.conf https://raw.githubusercontent.com/kyoz/purify/master/kitty/purify.conf
 
 # Or curl
-curl https://raw.githubusercontent.com/kyoz/purify/master/kitty/purify.conf --o ~/.config/kitty/purify.conf 
+curl https://raw.githubusercontent.com/kyoz/purify/master/kitty/purify.conf -o ~/.config/kitty/purify.conf 
 ```
 
 Then open file `~/.config/kitty/kitty.conf` and include this line to the end of file
