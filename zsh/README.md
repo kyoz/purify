@@ -72,24 +72,6 @@ Restart terminal and enjoy.
 
 You can get bash, git & oh-my-zsh configs, aliases... in [my dotfiles](https://github.com/banminkyoz/dotfiles)
 
-### To have padding in gnome terminal (ubuntu)
-
-Create `gtk.css` file at `~/.config/gtk-3.0`
-
-```
-touch ~/.config/gtk-3.0/gtk.css
-```
-
-Open `gtk.css` and add these styles:
-```
-VteTerminal,
-TerminalScreen,
-vte-terminal {
-  padding: 0px 0px 0px 16px;
-  -VteTerminal-inner-border: 0px 0px 0px 16px;
-}
-```
-
 ## References
 * [CLI to get inspirational quotes](https://github.com/banminkyoz/iquotes-cli)
 * [Init node project easily](https://github.com/banminkyoz/pji)

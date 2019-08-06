@@ -44,3 +44,5 @@ After edited, save `.alacritty.yml` file and restart for Alacritty to take effec
 
 If you are using zsh, please take a look at [purify/zsh](https://github.com/kyoz/purify/tree/master/zsh) to get zsh config for purify.
 
+## Lisence
+MIT © [Kyoz](mailto:banminkyoz@gmail.com)

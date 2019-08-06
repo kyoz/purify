@@ -35,3 +35,5 @@ let g:purify_override_colors = {
 \ }
 ```
 
+## Lisence
+MIT © [Kyoz](mailto:banminkyoz@gmail.com)
