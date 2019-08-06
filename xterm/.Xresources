@@ -1,0 +1,110 @@
+! ==============================================================================
+! Purify colors for XTerm, UXTerm, urxvt
+! Author:     Kyoz
+! Repository: https://github.com/kyoz/purify/
+! License:    The MIT License (MIT)
+! Copyright:  Kyoz (banminkyoz@gmail.com)
+! ==============================================================================
+
+!BLACK - Cursor
+#define _color0        #282C34
+#define _color8        #282C34
+!RED - Tag
+#define _color1        #FF6059
+#define _color9        #FF6059
+!GREEN - SpecialKey
+#define _color2        #5FFF87
+#define _color10       #5FFF87
+!YELLOW - Keyword
+#define _color3        #FFFF87
+#define _color11       #FFFF87
+!BLUE - Number
+#define _color4        #5FAFFF
+#define _color12       #5FAFFF
+!MAGENTA - Precondit
+#define _color5        #AF87FF
+#define _color13       #AF87FF
+!CYAN - Float
+#define _color6        #5FAFFF
+#define _color14       #5FAFFF
+!WHITE - Search
+#define _color7        #FFFFFF
+#define _color15       #FFFFFF
+!FMT - Include, StatusLine, ErrorMsg
+#define _colorBD       #FF875F
+#define _colorUL       #FFFF87
+#define _colorIT       #5FFF87
+!TXT - Normal, Normal, Cursor
+#define _foreground    #FAFAFA
+#define _background    #313440
+#define _cursorColor   #FCE6FF
+
+XTerm*color0         : _color0
+XTerm*color1         : _color1
+XTerm*color2         : _color2
+XTerm*color3         : _color3
+XTerm*color4         : _color4
+XTerm*color5         : _color5
+XTerm*color6         : _color6
+XTerm*color7         : _color7
+XTerm*color8         : _color8
+XTerm*color9         : _color9
+XTerm*color10        : _color10
+XTerm*color11        : _color11
+XTerm*color12        : _color12
+XTerm*color13        : _color13
+XTerm*color14        : _color14
+XTerm*color15        : _color15
+XTerm*colorBD        : _colorBD
+XTerm*colorIT        : _colorIT
+XTerm*colorUL        : _colorUL
+XTerm*foreground     : _foreground
+XTerm*background     : _background
+XTerm*cursorColor    : _cursorColor
+
+UXTerm*color0         : _color0
+UXTerm*color1         : _color1
+UXTerm*color2         : _color2
+UXTerm*color3         : _color3
+UXTerm*color4         : _color4
+UXTerm*color5         : _color5
+UXTerm*color6         : _color6
+UXTerm*color7         : _color7
+UXTerm*color8         : _color8
+UXTerm*color9         : _color9
+UXTerm*color10        : _color10
+UXTerm*color11        : _color11
+UXTerm*color12        : _color12
+UXTerm*color13        : _color13
+UXTerm*color14        : _color14
+UXTerm*color15        : _color15
+UXTerm*colorBD        : _colorBD
+UXTerm*colorIT        : _colorIT
+UXTerm*colorUL        : _colorUL
+UXTerm*foreground     : _foreground
+UXTerm*background     : _background
+UXTerm*cursorColor    : _cursorColor
+
+URxvt*color0         : _color0
+URxvt*color1         : _color1
+URxvt*color2         : _color2
+URxvt*color3         : _color3
+URxvt*color4         : _color4
+URxvt*color5         : _color5
+URxvt*color6         : _color6
+URxvt*color7         : _color7
+URxvt*color8         : _color8
+URxvt*color9         : _color9
+URxvt*color10        : _color10
+URxvt*color11        : _color11
+URxvt*color12        : _color12
+URxvt*color13        : _color13
+URxvt*color14        : _color14
+URxvt*color15        : _color15
+URxvt*colorBD        : _colorBD
+URxvt*colorIT        : _colorIT
+URxvt*colorUL        : _colorUL
+URxvt*foreground     : _foreground
+URxvt*background     : _background
+URxvt*cursorColor    : _cursorColor
+
