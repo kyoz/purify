@@ -12,7 +12,7 @@
 
 [Demo 2](https://raw.githubusercontent.com/kyoz/purify/master/demo/purify_demo_1.png)
 [Demo 3](https://raw.githubusercontent.com/kyoz/purify/master/demo/purify_demo_2.png)
-You can view more demo images in [demo folder](./demo)
+, Or you can view more demo images in [demo folder](./demo)
 
 ## Contents
 
