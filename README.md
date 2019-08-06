@@ -3,7 +3,7 @@
 > Clean & vibrant color schemes for Vim, Terminals...
 
 <p align="center">
-  <img src="../demo/purify.png" width="900px">
+  <img src="./demo/purify.png" width="900px">
 </p>
 
 ## Contents
