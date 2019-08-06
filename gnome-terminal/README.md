@@ -13,10 +13,10 @@ First you have to install `Purify` profile for gnome terminal. You can choose on
 
 ```
 # Install with wget
-wget -O - http://github.com/kyoz/purify/gnome-terminal/purify.sh | bash
+wget https://github.com/kyoz/purify/blob/master/gnome-terminal/purify.sh -O - | sh
 
 # Install with curl
-curl -s http://github.com/kyoz/purify/gnome-terminal/purify.sh | bash -s
+curl -s https://github.com/kyoz/purify/blob/master/gnome-terminal/purify.sh | bash -s
 
 # Or you can download purify.sh file manually and run it with:
 bash ./purify.sh
