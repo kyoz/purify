@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./demo/purify.png" width="900px">
+  <img src="./demo/purify_demo.png" width="900px">
 </p>
 
 You can view more demo images in [demo folder](./demo)
