@@ -12,6 +12,11 @@
 To get colors that match with purify colors, edit your `.alacritty.yml` file with these settings:
 
 ```
+# Selection colors
+selection:
+  text:       '0xFAFAFA'
+  background: '0x2B2E3B'
+
 # Normal colors
 primary:
   background: '0x313440'
@@ -24,7 +29,7 @@ normal:
   blue:    '0x5FAFFF'
   magenta: '0xAF87FF'
   cyan:    '0x5FAFFF'
-  white:   '0xFFFFFF'
+  white:   '0xFAFAFA'
 
 # Bright colors
 bright:
@@ -35,7 +40,7 @@ bright:
   blue:    '0x5FAFFF'
   magenta: '0xAF87FF'
   cyan:    '0x5FAFFF'
-  white:   '0xFFFFFF'
+  white:   '0xFAFAFA'
 ```
 
 After edited, save `.alacritty.yml` file and restart for Alacritty to take effect.

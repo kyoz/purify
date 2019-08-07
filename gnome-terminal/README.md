@@ -4,7 +4,7 @@
 ## Demo
 
 <p align="center">
-  <img src="../demo/gnome-terminal.png" width="800px">
+  <img src="../demo/gnome-terminal.png" width="700px">
 </p>
 
 ## Installation
@@ -13,10 +13,10 @@ First you have to install `Purify` profile for gnome terminal. You can choose on
 
 ```
 # Install with wget
-wget https://github.com/kyoz/purify/blob/master/gnome-terminal/purify.sh -O - | sh
+wget https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh -O - | sh
 
 # Install with curl
-curl -s https://github.com/kyoz/purify/blob/master/gnome-terminal/purify.sh | bash -s
+curl -s https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh | bash -s
 
 # Or you can download purify.sh file manually and run it with:
 bash ./purify.sh
