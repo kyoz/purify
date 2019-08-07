@@ -62,7 +62,7 @@ if which "$DCONF" > /dev/null 2>&1; then
 
         # Update profile values with theme options
         # Black  #282C34
-        # White  #FFFFFF
+        # White  #FAFAFA
         # Red    #FF6059
         # Green  #5FFF87
         # Blue   #5FAFFF
@@ -70,14 +70,17 @@ if which "$DCONF" > /dev/null 2>&1; then
         # Pink   #FF79C6
 
         dset visible-name "'$PROFILE_NAME'"
-        dset palette "['#282C34', '#FF6059', '#5FFF87', '#FFFF87', '#5FAFFF', '#FF79C6', '#5FAFFF', '#FFFFFF', '#FFFFFF', '#FF6059', '#5FFF87', '#FFFF87', '#5FAFFF', '#FF79C6', '#5FAFFF', '#FFFFFF']"
+        dset palette "['#282C34', '#FF6059', '#5FFF87', '#FFFF87', '#5FAFFF', '#FF79C6', '#5FAFFF', '#FAFAFA', '#FAFAFA', '#FF6059', '#5FFF87', '#FFFF87', '#5FAFFF', '#FF79C6', '#5FAFFF', '#FAFAFA']"
         dset background-color "'#313440'"
-        dset foreground-color "'#FFFFFF'"
-        dset bold-color "'#FFFFFF'"
+        dset foreground-color "'#FAFAFA'"
+        dset bold-color "'#FAFAFA'"
         dset bold-color-same-as-fg "true"
         dset cursor-colors-set "true"
-        dset cursor-background-color "'#FFFFFF'"
-        dset cursor-foreground-color "'#000000'"
+        dset cursor-background-color "'#FAFAFA'"
+        dset cursor-foreground-color "'#313440'"
+        dset highlight-colors-set "true"
+        dset highlight-background-color "'#2B2E3B'"
+        dset highlight-foreground-color "'#FAFAFA'"
         dset use-theme-colors "false"
         dset use-theme-background "false"
         dset allow-bold false # Disable bold text
@@ -125,13 +128,13 @@ glist_append() {
 glist_append string /apps/gnome-terminal/global/profile_list "$PROFILE_SLUG"
 
 gset string visible_name "$PROFILE_NAME"
-gset string palette "#313440:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#FFFFFF:#FFFFFF:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#f7f7f7"
+gset string palette "#313440:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#FAFAFA:#FAFAFA:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#f7f7f7"
 gset string background_color "#313440"
-gset string foreground_color "#FFFFFF"
-gset string bold_color "#FFFFFF"
+gset string foreground_color "#FAFAFA"
+gset string bold_color "#FAFAFA"
 gset bool   bold_color_same_as_fg "true"
 gset bool   cursor-colors-set "true"
-gset string cursor-background-color "'#FFFFFF'"
+gset string cursor-background-color "'#FAFAFA'"
 gset string cursor-foreground-color "'#313440'"
 gset bool   use_theme_colors "false"
 gset bool   use_theme_background "false"
