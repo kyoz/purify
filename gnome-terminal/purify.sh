@@ -125,14 +125,14 @@ glist_append() {
 glist_append string /apps/gnome-terminal/global/profile_list "$PROFILE_SLUG"
 
 gset string visible_name "$PROFILE_NAME"
-gset string palette "#282C34:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#FFFFFF:#FFFFFF:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#f7f7f7"
-gset string background_color "#282C34"
+gset string palette "#313440:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#FFFFFF:#FFFFFF:#FF6059:#5FFF87:#FFFF87:#5FAFFF:#FF79C6:#5FAFFF:#f7f7f7"
+gset string background_color "#313440"
 gset string foreground_color "#FFFFFF"
 gset string bold_color "#FFFFFF"
 gset bool   bold_color_same_as_fg "true"
 gset bool   cursor-colors-set "true"
 gset string cursor-background-color "'#FFFFFF'"
-gset string cursor-foreground-color "'#282C34'"
+gset string cursor-foreground-color "'#313440'"
 gset bool   use_theme_colors "false"
 gset bool   use_theme_background "false"
 
