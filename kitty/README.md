@@ -2,7 +2,7 @@
 > Instruction to apply purify colors for kitty terminal
 
 <p align="center">
-  <img src="../demo/kitty.png" width="900px">
+  <img src="../demo/kitty.png" width="800px">
 </p>
 
 ## Installation

@@ -2,7 +2,7 @@
 > Instruction to apply purify colors for alacritty
 
 <p align="center">
-  <img src="../demo/alacritty.png" width="900px">
+  <img src="../demo/alacritty.png" width="800px">
 </p>
 
 ## Installation

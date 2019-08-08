@@ -2,7 +2,7 @@
 > Instruction to apply purify colors for iTerm2 terminal
 
 <p align="center">
-  <img src="../demo/iterm2.png" width="900px">
+  <img src="../demo/iterm2.png" width="800px">
 </p>
 
 ## Installation
