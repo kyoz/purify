@@ -13,7 +13,7 @@
 $ wget https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme -O ~/.oh-my-zsh/themes/purify.zsh-theme
 
 # With curl
-$ curl https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme --o ~/.oh-my-zsh/themes/purify.zsh-theme
+$ curl https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme --output ~/.oh-my-zsh/themes/purify.zsh-theme
 
 # With git
 $ git clone https://github.com/kyoz/purify.git
