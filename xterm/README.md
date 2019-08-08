@@ -1,6 +1,7 @@
 # XTerm
 > Instruction to apply purify colors for XTerm, UXTerm, urxvt terminals
 
+<br>
 <p align="center">
   <img src="../demo/xterm.png" width="700px">
 </p>
