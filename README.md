@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./demo/purify_demo.png" width="900px">
+  <img src="./demo/purify.png" width="900px">
 </p>
 
 [Demo 2](https://raw.githubusercontent.com/kyoz/purify/master/demo/purify_demo_1.png)
