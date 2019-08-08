@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+================================================================================
+- Purify colors for gedit editor
+- Author:     Kyoz
+- Repository: https://github.com/kyoz/purify/
+- License:    The MIT License (MIT)
+- Copyright:  Kyoz (banminkyoz@gmail.com)
+- Base on:    https://github.com/dracula/gedit
+================================================================================
+-->
+<style-scheme id="purify" name="Purify" version="1.0">
+	<author>Ricardo Madriz</author>
+	<_description>Purify theme for Gedit</_description>
+
+	<!-- Purify Colors -->
+	<color name="background" value="#313440"/>
+	<color name="current-line" value="#313440"/>
+	<color name="selection" value="#252834"/>
+	<color name="foreground" value="#FAFAFA"/>
+	<color name="comment" value="#5F5F87"/>
+	<color name="cyan" value="#5FAFFF"/>
+	<color name="green" value="#5FFF87"/>
+	<color name="orange" value="#D19A66"/>
+	<color name="pink" value="#FF79C6"/>
+	<color name="purple" value="#AF87FF"/>
+	<color name="red" value="#FF875F"/>
+	<color name="yellow" value="#FFFF87"/>
+
+	<!-- Helper colors -->
+	<color name="white" value="#FAFAFA"/>
+	<color name="bone-white" value="#F8F8F0"/>
+	<color name="weird-gray" value="#909194"/>
+
+	<style name="text" foreground="bone-white" background="background"/>
+	<style name="selection" background="selection"/>
+	<style name="cursor" foreground="white" background="white"/>
+	<style name="current-line" foreground="current-line" background="current-line"/>
+	<style name="line-numbers" foreground="weird-gray" background="background"/>
+	<style name="bracket-match" foreground="bone-white" background="background" underline="true"/>
+	<style name="search-match" foreground="selection" background="yellow"/>
+        <style name="background-pattern" background="#2f313e"/>
+
+
+	<style name="def:function" foreground="green"/>
+	<style name="def:identifier" foreground="pink"/>
+	<style name="def:keyword" foreground="pink"/>
+	<style name="def:number" foreground="purple" />
+	<style name="def:boolean" foreground="purple"/>
+	<style name="def:string" foreground="yellow"/>
+	<style name="def:special-char" foreground="pink"/>
+	<style name="def:builtin" foreground="cyan"/>
+	<style name="def:type" foreground="green"/>
+	<style name="def:preprocessor" foreground="green"/>
+	<style name="def:comment" foreground="comment"/>
+	
+	<!-- Python-specific stuff -->
+	<style name="python:module-handler" foreground="pink"/>
+	<style name="python:function-name" foreground="green"/>
+	<style name="python:decorator" foreground="green"/>
+	<style name="python:class-name" foreground="white"/>
+	<style name="python:special-variable" foreground="cyan"/>
+	<style name="python:builtin-constant" foreground="purple"/>
+
+
+	<style name="def:specials" foreground="#FAFAFA"/>
+	<style name="def:statement" foreground="pink"/>
+
+	<style background="#5FFF87" bold="true" foreground="#FAFAFA" name="diff:added-line"/>
+	<style foreground="#FF0000" name="diff:removed-line"/>
+	<style background="#243a5f" foreground="#FAFAFA" name="diff:changed-line"/>
+
+</style-scheme>
