@@ -1,3 +1,11 @@
+# ==============================================================================
+#  Purify theme for zsh
+#  Author:     Kyoz
+#  Repository: https://github.com/kyoz/purify/
+#  License:    The MIT License (MIT)
+#  Copyright:  Kyoz (banminkyoz@gmail.com)
+# ==============================================================================
+
 local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 
 if [[ $UID -eq 0 ]]; then

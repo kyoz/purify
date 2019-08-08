@@ -1,6 +1,6 @@
 'use strict'
 /*==============================================================================
- Purify colors for Kitty
+ Purify colors for Hyper
  Author:     Kyoz
  Repository: https://github.com/kyoz/purify/
  License:    The MIT License (MIT)
