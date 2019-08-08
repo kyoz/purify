@@ -6,15 +6,23 @@
 This config file work with XTerm, UXTerm, urxvt
 
 <p align="center">
-  <img src="../demo/xterm.png" width="800px">
+  <img src="../demo/xterm.png" width="700px">
 </p>
 
 ## Installation
 
-Download `.Xresources` file, and run this command:
+```
+# If you have wget
+wget https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources -O ~/.Xresources && xrdb -merge ~/.Xresources
+
+# Or if you have curl
+curl https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources --output ~/.Xresources && xrdb -merge ~/.Xresources
+```
+
+Or manually install:
 
 ```sh
-# Assume you have downloaded it to ~/
+# Assume you have downloaded `.Xresources` file to ~/
 xrdb -merge ~/.Xresources
 ```
 
