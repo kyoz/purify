@@ -1,6 +1,7 @@
 # st
 > Instruction to apply purify colors for st terminal
 
+<br>
 <p align="center">
   <img src="../demo/st.png" width="700px">
 </p>
