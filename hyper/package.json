@@ -1,0 +1,17 @@
+{
+  "name": "hyper-purify",
+  "version": "0.0.1",
+  "description": "Purify theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "purify",
+    "theme",
+    "kyoz"
+  ],
+  "author": "kyoz",
+  "license": "MIT"
+}
