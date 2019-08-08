@@ -14,7 +14,7 @@
   - [Airline](#airline)
   - [Lightline](#lightline)
 - [Customize](#customize)
-  - [Font formats](#font-formats)
+  - [Font styles](#font-styles)
   - [Overrides colors](#overrides-colors)
 - [License](#license)
 
@@ -47,7 +47,7 @@ Purify support consistent color syntax for almost all common languages and file 
 - [x] Javascript, Typescript
 - [x] Python, Go
 - [x] C, C_++
-- [x] And all [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
+- [x] All [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
 
 ## Plugins Support
 
@@ -80,9 +80,9 @@ let g:lightline = {
 
 ## Customize
 
-### Font formats
+### Font styles
 
-By default, Purify will support for italic, bold, underline... You can disable them if you want.
+By default, Purify will support for italic, bold, underline... You can disable them if you want:
 
 ```
 let g:purify_bold = 0        " default: 1
