@@ -13,7 +13,7 @@ Edit those variables in `config.h` file and build st terminal like normal.
 
 ```c
 static const char *colorname[] = {
-	/* 8 normal colors */
+  /* 8 normal colors */
   "#282C34", /* Black */
   "#FF6059", /* Red */
   "#5FFF87", /* Green */
@@ -22,7 +22,7 @@ static const char *colorname[] = {
   "#AF87FF", /* Magenta */
   "#5FAFFF", /* Cyan */
   "#FAFAFA", /* White */
-	/* 8 bright colors */
+  /* 8 bright colors */
   "#282C34", /* Black */
   "#FF6059", /* Red */
   "#5FFF87", /* Green */
@@ -32,11 +32,11 @@ static const char *colorname[] = {
   "#5FAFFF", /* Cyan */
   "#FAFAFA", /* White */
 
-	[255] = 0,
+  [255] = 0,
 
-	/* more colors can be added after 255 to use with DefaultXX */
-	"#FAFAFA", /* 256: Foreground */
-	"#252834", /* 257: Background */
+  /* more colors can be added after 255 to use with DefaultXX */
+  "#FAFAFA", /* 256: Foreground */
+  "#252834", /* 257: Background */
 };
 
 unsigned int defaultfg = 256;

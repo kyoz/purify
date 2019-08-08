@@ -36,6 +36,7 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [Gnome Terminal](./gnome-terminal)
 - [x] [iTerm2](./iterm2)
 - [x] [Kitty](./kitty)
+- [x] [st](./st)
 - [x] [Terminal.app](./terminal-app) (OSX)
 - [x] [XTerm, UXTerm, urxvt](./xterm)
 
@@ -48,7 +49,6 @@ Purify support consistent color theme among terminals, editors and other things:
 I'll look into these terminals & editors when i have time. But mostly the time i'll use to maintain Vim and most used Terminal theme.
 
 - [ ] Hyper
-- [ ] st
 - [ ] fish
 - [ ] termite
 - [ ] tilix
