@@ -1,5 +1,5 @@
 # Alacritty
-> Instruction to apply purify colors for alacritty
+> Purify theme for Alacritty
 
 <p align="center">
   <img src="../demo/alacritty.png" width="800px">

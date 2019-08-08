@@ -1,6 +1,5 @@
 # ZSH
-
-> purify oh-my-zsh theme
+> Purify theme for oh-my-zsh
 
 <p align="center">
   <img src="../demo/zsh.png" width="900px">

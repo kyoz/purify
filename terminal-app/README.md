@@ -1,5 +1,5 @@
-# Terminal app (OSX)
-> Instruction to apply purify colors for OSX default terminal
+# Terminal.app (OSX)
+> Purify theme for OSX default terminal
 
 <p align="center">
   <img src="../demo/terminal-app.png" width="800px">

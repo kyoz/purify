@@ -1,5 +1,5 @@
 # st
-> Instruction to apply purify colors for st terminal
+> Purify theme for st
 
 <br>
 <p align="center">

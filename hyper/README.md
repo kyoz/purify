@@ -1,5 +1,5 @@
 # Hyper
-> Instruction to apply purify colors for Hyper terminal
+> Purify theme for Hyper
 
 <p align="center">
   <img src="../demo/hyper.png" width="800px">

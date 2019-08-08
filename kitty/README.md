@@ -1,5 +1,5 @@
 # Kitty
-> Instruction to apply purify colors for kitty terminal
+> Purify theme for Kitty
 
 <p align="center">
   <img src="../demo/kitty.png" width="800px">

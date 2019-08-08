@@ -1,5 +1,5 @@
 # Gnome Terminal
-> Instruction to apply purify colors for gnome-terminal
+> Purify theme for Gnome-terminal
 
 <br>
 <p align="center">

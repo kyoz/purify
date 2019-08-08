@@ -1,5 +1,5 @@
 # XTerm
-> Instruction to apply purify colors for XTerm, UXTerm, urxvt terminals
+> Purify theme for XTerm, UXTerm, urxvt terminals
 
 <br>
 <p align="center">

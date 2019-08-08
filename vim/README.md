@@ -1,5 +1,5 @@
 # Vim Purify
-> Instruction to install purify for vim (neovim)
+> Purify colorscheme for vim (neovim)
 
 ## Colors
 
