@@ -15,7 +15,7 @@ To get colors that match with purify colors, edit your `.alacritty.yml` file wit
 # Selection colors
 selection:
   text:       '0xFAFAFA'
-  background: '0x2B2E3B'
+  background: '0x252834'
 
 # Normal colors
 primary:
