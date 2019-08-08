@@ -33,6 +33,7 @@ Purify support consistent color theme among terminals, editors and other things:
 ### Terminals
 
 - [x] [Alacritty](./alacritty)
+- [x] [Gedit](./gedit)
 - [x] [Gnome Terminal](./gnome-terminal)
 - [x] [iTerm2](./iterm2)
 - [x] [Kitty](./kitty)
