@@ -1,8 +1,6 @@
 # iTerm2
 > Instruction to apply purify colors for iTerm2 terminal
 
-## Demo
-
 <p align="center">
   <img src="../demo/iterm2.png" width="900px">
 </p>

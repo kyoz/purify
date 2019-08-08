@@ -1,15 +1,13 @@
 # XTerm
 > Instruction to apply purify colors for XTerm, UXTerm, urxvt terminals
 
-## Demo
-
-This config file work with XTerm, UXTerm, urxvt
-
 <p align="center">
   <img src="../demo/xterm.png" width="700px">
 </p>
 
 ## Installation
+
+**Note:** This config file work with XTerm, UXTerm, urxvt
 
 ```
 # If you have wget

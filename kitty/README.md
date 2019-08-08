@@ -1,8 +1,6 @@
 # Kitty
 > Instruction to apply purify colors for kitty terminal
 
-## Demo
-
 <p align="center">
   <img src="../demo/kitty.png" width="900px">
 </p>

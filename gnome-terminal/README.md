@@ -1,8 +1,6 @@
 # Gnome Terminal
 > Instruction to apply purify colors for gnome-terminal
 
-## Demo
-
 <p align="center">
   <img src="../demo/gnome-terminal.png" width="700px">
 </p>
