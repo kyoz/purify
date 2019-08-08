@@ -42,7 +42,7 @@
 
 ## Installation
 
-```
+```sh
 $ git clone https://github.com/banminkyoz/purify.git
 $ cd purify
 $ cp purify.zsh-theme ~/.oh-my-zsh/themes/

@@ -10,15 +10,15 @@
 
 First you have to install `Purify` profile for gnome terminal. You can choose one of these ways:
 
-```
+```sh
 # Install with wget
-wget https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh -O - | sh
+$ wget https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh -O - | sh
 
 # Install with curl
-curl -s https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh | bash -s
+$ curl -s https://raw.githubusercontent.com/kyoz/purify/master/gnome-terminal/purify.sh | bash -s
 
 # Or you can download purify.sh file manually and run it with:
-bash ./purify.sh
+$ bash ./purify.sh
 ```
 
 Then you can select `Purify` profile in `Preferences` (Restart terminal maybe required)
@@ -27,12 +27,12 @@ Then you can select `Purify` profile in `Preferences` (Restart terminal maybe re
 
 Create `gtk.css` file at `~/.config/gtk-3.0`
 
-```
-touch ~/.config/gtk-3.0/gtk.css
+```sh
+$ touch ~/.config/gtk-3.0/gtk.css
 ```
 
 Open `gtk.css` and add these styles:
-```
+```css
 VteTerminal,
 TerminalScreen,
 vte-terminal {

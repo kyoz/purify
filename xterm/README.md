@@ -10,19 +10,19 @@
 
 **Note:** This config file work with XTerm, UXTerm, urxvt
 
-```
+```sh
 # If you have wget
-wget https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources -O ~/.Xresources && xrdb -merge ~/.Xresources
+$ wget https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources -O ~/.Xresources && xrdb -merge ~/.Xresources
 
 # Or if you have curl
-curl https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources --output ~/.Xresources && xrdb -merge ~/.Xresources
+$ curl https://raw.githubusercontent.com/kyoz/purify/master/xterm/.Xresources --output ~/.Xresources && xrdb -merge ~/.Xresources
 ```
 
 Or manually install:
 
 ```sh
 # Assume you have downloaded `.Xresources` file to ~/
-xrdb -merge ~/.Xresources
+$ xrdb -merge ~/.Xresources
 ```
 
 ## References
