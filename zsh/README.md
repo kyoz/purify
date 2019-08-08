@@ -1,49 +1,22 @@
 # ZSH
 
-> oh-my-zsh theme
-
-## Demo
-
-### 1. OSX + Hyper
+> purify oh-my-zsh theme
 
 <p align="center">
-  <img src="demo/osx_hyper.png" width="900px">
-</p>
-
-### 2. OSX + Alacritty
-
-<p align="center">
-  <img src="demo/osx_alacritty.png" width="900px">
-</p>
-
-### 3. OSX + Iterm2
-
-<p align="center">
-  <img src="demo/osx_iterm2.png" width="900px">
-</p>
-
-### 4. Ubuntu + Hyper
-
-<p align="center">
-  <img src="demo/ubuntu_hyper.png" width="750px">
-</p>
-
-### 5. Ubuntu + Alacritty
-
-<p align="center">
-  <img src="demo/ubuntu_alacritty.png" width="750px">
-</p>
-
-### 6. Ubuntu + Gnome Terminal
-
-<p align="center">
-  <img src="demo/ubuntu_gnome.png" width="750px">
+  <img src="../demo/zsh.png" width="900px">
 </p>
 
 ## Installation
 
 ```sh
-$ git clone https://github.com/banminkyoz/purify.git
+# With wget
+$ wget https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme -O ~/.oh-my-zsh/themes/purify.zsh-theme
+
+# With curl
+$ curl https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme --o ~/.oh-my-zsh/themes/purify.zsh-theme
+
+# With git
+$ git clone https://github.com/kyoz/purify.git
 $ cd purify
 $ cp purify.zsh-theme ~/.oh-my-zsh/themes/
 ```
@@ -54,27 +27,16 @@ In your `.zshrc`, set `ZSH_THEME="purify"`.
 
 Restart terminal and enjoy.
 
-## What i'v used in the demo ?
-
-* [Iosevka](https://github.com/be5invis/Iosevka) font (FREE)
-
-* **OSX**:
-
-  1. Hyper with [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme
-  2. Iterm2 with oh-my-zsh
-
-* **Ubuntu**:
-
-  3. Hyper with [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme
-  4. Gnome Terminal
-
-You can get bash, git & oh-my-zsh configs, aliases... in [my dotfiles](https://github.com/banminkyoz/dotfiles)
-
 ## References
-* [CLI to get inspirational quotes](https://github.com/banminkyoz/iquotes-cli)
-* [Init node project easily](https://github.com/banminkyoz/pji)
+
+* [Hyper.js](https://hyper.is/) - Terminal
+* [Iosevka](https://github.com/be5invis/Iosevka) - font (FREE)
+* [iquotes-cli](https://github.com/kyoz/iquotes-cli) - Get random quotes offline
+* [pji](https://github.com/kyoz/pji) - Fast init for node project...
 * [Bash colors & formating](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
 * [ASCII Art](https://textart4u.blogspot.com/2013/03/one-line-ascii-text-art.html)
+
+You can get bash, git & oh-my-zsh configs, aliases... in [my dotfiles](https://github.com/kyoz/dotfiles)
 
 ## Lisence
 MIT © [Kyoz](mailto:banminkyoz@gmail.com)
