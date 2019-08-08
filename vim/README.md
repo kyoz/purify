@@ -2,13 +2,13 @@
 > Purify colorscheme for vim (neovim)
 
 <p align="center">
-  <img src="./demo/purify_1.png" width="900px">
+  <img src="../demo/purify_1.png" width="900px">
 </p>
 
 ## Contents
 
 - [Installation](#installation)
-- [Languages & File types Support](#languages-&-file-types-support)
+- [Languages and Filetypes Support](#languages-and-filetypes-support)
 - [Plugins Support](#plugins-support)
   - [Built-in](#built-in)
   - [Airline](#airline)
@@ -20,13 +20,13 @@
 
 ## Installation
 
-You can install easily if you are using [vim-plug](https://github.com/junegunn/vim-plug):
+You can install purify easily if you are using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
 Plug 'kyoz/purify', { 'rtp': 'vim' }
 ```
 
-**Note**: Other vim plugin managerhave similar installation, just remember rtp option
+**Note**: Other vim plugin manager have similar installation, just remember `rtp` option
 
 Then add this to your vim config file:
 
@@ -37,28 +37,28 @@ colorscheme purify
 
 **Note**: All customize option should be placed before you call `colorscheme purify`. If not, it'll not have any effects.
 
-## Languages & File types Support
+## Languages and Filetypes Support
 
 Purify support consistent color syntax for almost all common languages and file types (base on vim's [runtime syntax](https://github.com/vim/vim/tree/master/runtime/syntax)):
 
-[x] Html, Html5...
-[x] Css, Scss, Sass, Less
-[x] Json, Xml, Markdown
-[x] Javascript, Typescript
-[x] Python, Go
-[x] C, C_++
-[x] And all [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
+- [x] Html, Html5...
+- [x] Css, Scss, Sass, Less
+- [x] Json, Xml, Markdown
+- [x] Javascript, Typescript
+- [x] Python, Go
+- [x] C, C_++
+- [x] And all [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
 
 ## Plugins Support
 
 ### Built-in:
 
-By default, without any configuration, purify auto support consistent colors for
+By default, without any configuration, purify auto support consistent colors for:
 
-[x] [NERDTree](https://github.com/scrooloose/nerdtree)
-[x] [fzf.vim](https://github.com/junegunn/fzf.vim)
-[x] [EasyMotion](https://github.com/easymotion/vim-easymotion)
-[x] Other plugins that use highlight syntax that define in [w18](http://vimdoc.sourceforge.net/htmldoc/syntax.html#syntax) and [highlight-group](http://vimdoc.sourceforge.net/htmldoc/options.html#'highlight')
+- [x] [NERDTree](https://github.com/scrooloose/nerdtree)
+- [x] [fzf.vim](https://github.com/junegunn/fzf.vim)
+- [x] [EasyMotion](https://github.com/easymotion/vim-easymotion)
+- [x] Other plugins that use highlight syntax that define in [w18](http://vimdoc.sourceforge.net/htmldoc/syntax.html#syntax) and [highlight-group](http://vimdoc.sourceforge.net/htmldoc/options.html#'highlight')
 
 ### Airline
 
@@ -95,6 +95,8 @@ let g:purify_inverse = 0     " default: 1
 **Note**: Those style formats only working if your terminal, your settings, your fonts support em.
 
 ### Overrides colors
+
+You can overrides purify's colors if there's some colors you don't like:
 
 ```
 let g:purify_override_colors = {
