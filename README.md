@@ -29,11 +29,11 @@ Purify support consistent color theme among terminals, editors and other things:
 ### Editors
 
 - [x] [Vim, NeoVim, MacVim](./vim) (Come along with consistent colors of plugins, syntax of almost most popular programing languages...)
+- [x] [Gedit](./gedit)
 
 ### Terminals
 
 - [x] [Alacritty](./alacritty)
-- [x] [Gedit](./gedit)
 - [x] [Gnome Terminal](./gnome-terminal)
 - [x] [Hyper](./hyper)
 - [x] [iTerm2](./iterm2)
