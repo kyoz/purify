@@ -399,6 +399,7 @@ call s:hi('typescriptReserved',       { 'fg': s:blue, 'styles': [s:styles.italic
 call s:hi('typescriptOperator',       { 'fg': s:pink, 'styles': [s:styles.italic] })
 call s:hi('typescriptOpSymbols',      { 'fg': s:pink })
 call s:hi('typescriptLogicSymbols',   { 'fg': s:salmon })
+call s:hi('typescriptEndColons',      { 'fg': s:pink })
 
 " }}}
 
