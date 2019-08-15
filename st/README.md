@@ -46,6 +46,8 @@ static unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;
 ```
 
+If you also want to change to highlight background & foreground colors to match Purify, try out [this patch](https://github.com/kyoz/st/commit/450a0693c74788fde936ace99d80047ab353b7f2)
+
 ## References
 
 If you are using zsh, please take a look at [purify/zsh](https://github.com/kyoz/purify/tree/master/zsh) to get zsh config for purify.
