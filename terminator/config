@@ -1,0 +1,28 @@
+[global_config]
+  title_inactive_fg_color = "#252834"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = purify
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    allow_bold = False
+    cursor_color = "#aaaaaa"
+    show_titlebar = False
+    use_system_font = False
+  [[purify]]
+    allow_bold = False
+    background_color = "#252834"
+    cursor_color = "#aaaaaa"
+    foreground_color = "#fafafa"
+    icon_bell = False
+    palette = "#282c34:#ff6059:#5fff87:#ffff87:#5fafff:#af87ff:#5fafff:#fafafa:#282c34:#ff6059:#5fff87:#ffff87:#5fafff:#af87ff:#5fafff:#fafafa"
+    show_titlebar = False
+    use_system_font = False
