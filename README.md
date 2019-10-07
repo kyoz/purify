@@ -40,6 +40,7 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [Kitty](./kitty)
 - [x] [st](./st)
 - [x] [Terminal.app](./terminal-app) (OSX)
+- [x] [Tilix](./tilix)
 - [x] [XTerm, UXTerm, urxvt](./xterm)
 
 ### Others
@@ -52,7 +53,6 @@ I'll look into these terminals & editors when i have time. But mostly the time i
 
 - [ ] fish
 - [ ] termite
-- [ ] tilix
 - [ ] terminator
 - [ ] emacs
 - [ ] sublime
