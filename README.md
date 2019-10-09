@@ -50,13 +50,13 @@ Purify support consistent color theme among terminals, editors and other things:
 ### Others
 
 - [x] [zsh](./zsh)
+- [x] [fish](./fish)
 - [x] [highlightjs](./highlightjs)
 
 ## Todo
 
 I'll look into these terminals & editors when i have time. But mostly the time i'll use to maintain Vim and most used Terminal theme.
 
-- [ ] fish
 - [ ] sublime
 - [ ] vscode
 - [ ] intelliJ

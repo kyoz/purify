@@ -16,7 +16,7 @@ $ curl https://raw.githubusercontent.com/kyoz/purify/master/zsh/purify.zsh-theme
 
 # With git
 $ git clone https://github.com/kyoz/purify.git
-$ cd purify
+$ cd purify/zsh
 $ cp purify.zsh-theme ~/.oh-my-zsh/themes/
 ```
 
