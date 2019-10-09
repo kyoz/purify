@@ -38,6 +38,7 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [Hyper](./hyper)
 - [x] [iTerm2](./iterm2)
 - [x] [Kitty](./kitty)
+- [x] [Konsole](./konsole)
 - [x] [st](./st)
 - [x] [Terminal.app](./terminal-app) (OSX)
 - [x] [Terminator](./terminator)
