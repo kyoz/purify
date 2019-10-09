@@ -49,6 +49,7 @@ Purify support consistent color theme among terminals, editors and other things:
 ### Others
 
 - [x] [zsh](./zsh)
+- [x] [highlightjs](./highlightjs)
 
 ## Todo
 
@@ -59,6 +60,7 @@ I'll look into these terminals & editors when i have time. But mostly the time i
 - [ ] sublime
 - [ ] vscode
 - [ ] intelliJ
+- [ ] notepad++
 
 ## Installation & Usage
 

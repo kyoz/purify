@@ -1,0 +1,83 @@
+/* Purify colors for highlightjs
+ * Author:     Kyoz
+ * Repository: https://github.com/kyoz/purify/
+ * License:    The MIT License (MIT)
+ * Copyright:  Kyoz (banminkyoz@gmail.com)
+ */
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #FAFAFA;
+  background: #313440;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #5F5F87;
+  font-style: italic;
+}
+
+.hljs-doctag,
+.hljs-built_in,
+.hljs-formula {
+  color: #FF79C6;
+}
+
+.hljs-section,
+.hljs-name,
+.hljs-selector-tag,
+.hljs-deletion,
+.hljs-subst {
+  color: #FF0000;
+}
+
+.hljs-literal {
+  color: #5FAFFF;
+}
+
+.hljs-regexp,
+.hljs-addition,
+.hljs-attribute,
+.hljs-keyword,
+.hljs-meta-string {
+  color: #5FFF87;
+}
+
+.hljs-string,
+.hljs-class .hljs-title {
+  color: #FFFF87;
+}
+
+.hljs-attr,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-type,
+.hljs-selector-class,
+.hljs-selector-attr,
+.hljs-selector-pseudo,
+.hljs-number {
+  color: #FF875F;
+}
+
+.hljs-symbol,
+.hljs-bullet,
+.hljs-link,
+.hljs-meta,
+.hljs-selector-id,
+.hljs-title {
+  color: #5FAFFF;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: normal;
+}
+
+.hljs-link {
+  text-decoration: underline;
+}
