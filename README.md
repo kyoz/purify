@@ -30,7 +30,7 @@ Purify support consistent color theme among terminals, editors and other things:
 
 - [x] [Vim, NeoVim, MacVim](./vim) (Come along with consistent colors of plugins, syntax of almost most popular programing languages...)
 - [x] [Gedit](./gedit)
-- [x] [emacs](./emacs) (Need help)
+- [x] [emacs](./emacs) (Just minimal support, *****need help**)
 
 ### Terminals
 
