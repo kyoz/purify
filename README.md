@@ -57,10 +57,10 @@ Purify support consistent color theme among terminals, editors and other things:
 
 I'll look into these terminals & editors when i have time. But mostly the time i'll use to maintain Vim and most used Terminal theme.
 
+- [ ] notepad++
+- [ ] atom
 - [ ] sublime
 - [ ] vscode
-- [ ] intelliJ
-- [ ] notepad++
 
 ## Installation & Usage
 
