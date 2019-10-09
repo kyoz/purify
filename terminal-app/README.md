@@ -2,7 +2,7 @@
 > Purify theme for OSX default terminal
 
 <p align="center">
-  <img src="../demo/terminal-app.png" width="800px">
+  <img src="https://i.imgur.com/Va0NaV7.png" width="800px">
 </p>
 
 ## Installation

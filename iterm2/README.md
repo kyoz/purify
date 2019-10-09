@@ -2,7 +2,7 @@
 > Purify theme for iTerm2
 
 <p align="center">
-  <img src="../demo/iterm2.png" width="800px">
+  <img src="https://i.imgur.com/NyK0CaM.png" width="800px">
 </p>
 
 ## Installation

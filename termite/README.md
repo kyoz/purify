@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="../demo/termite.png" width="700px">
+  <img src="https://i.imgur.com/C2jeRvC.png" width="700px">
 </p>
 
 ## Installation

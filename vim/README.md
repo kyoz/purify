@@ -2,7 +2,7 @@
 > Purify dark theme for vim (neovim)
 
 <p align="center">
-  <img src="../demo/purify_1.png" width="900px">
+  <img src="https://i.imgur.com/ej5vWWS.png" width="900px">
 </p>
 
 ## Contents

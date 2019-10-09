@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="../demo/gnome-terminal.png" width="700px">
+  <img src="https://i.imgur.com/O6yJOAI.png" width="700px">
 </p>
 
 ## Installation

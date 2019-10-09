@@ -2,7 +2,7 @@
 > Purify theme for Kitty
 
 <p align="center">
-  <img src="../demo/kitty.png" width="800px">
+  <img src="https://i.imgur.com/9644OVJ.png" width="800px">
 </p>
 
 ## Installation

@@ -2,7 +2,7 @@
 > Purify theme for Hyper
 
 <p align="center">
-  <img src="../demo/hyper.png" width="800px">
+  <img src="https://i.imgur.com/4GWTTZ0.png" width="800px">
 </p>
 
 ## Installation

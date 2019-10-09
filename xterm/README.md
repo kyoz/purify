@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="../demo/xterm.png" width="700px">
+  <img src="https://i.imgur.com/dUAlLpP.png" width="700px">
 </p>
 
 ## Installation

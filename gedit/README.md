@@ -2,7 +2,7 @@
 > Purify theme for Gedit editor
 
 <p align="center">
-  <img src="../demo/gedit.png" width="800px">
+  <img src="https://i.imgur.com/qDdmDR1.png" width="800px">
 </p>
 
 ## Installation

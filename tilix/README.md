@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="../demo/tilix.png" width="700px">
+  <img src="https://i.imgur.com/2o5Hlfi.png" width="700px">
 </p>
 
 ## Installation

@@ -3,16 +3,16 @@
 > Clean & vibrant color schemes for Vim, Terminals...
 
 <p align="center">
-  <img src="./demo/purify_colors.png" width="900px">
+  <img src="https://i.imgur.com/5OGnkjQ.png" width="900px">
 </p>
 
 <p align="center">
-  <img src="./demo/purify.png" width="900px">
+  <img src="https://i.imgur.com/z6tHVS2.png" width="900px">
 </p>
 
-[Demo 2](https://raw.githubusercontent.com/kyoz/purify/master/demo/purify_demo_1.png)
-[Demo 3](https://raw.githubusercontent.com/kyoz/purify/master/demo/purify_demo_2.png)
-, Or you can view more demo images in [demo folder](./demo)
+[Demo 2](https://i.imgur.com/ej5vWWS.png)
+[Demo 3](https://i.imgur.com/gYhHGIW.png)
+, Or you can view more demo images [here](https://imgur.com/gallery/8ZQYE9Z)
 
 ## Contents
 

@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="../demo/st.png" width="700px">
+  <img src="https://i.imgur.com/gkObNa9.png" width="700px">
 </p>
 
 ## Installation

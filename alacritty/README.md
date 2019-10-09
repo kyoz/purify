@@ -2,7 +2,7 @@
 > Purify theme for Alacritty
 
 <p align="center">
-  <img src="../demo/alacritty.png" width="800px">
+  <img src="https://i.imgur.com/CKIltun.png" width="800px">
 </p>
 
 ## Installation
