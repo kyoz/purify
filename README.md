@@ -14,7 +14,7 @@
 
 [Demo 2](https://i.imgur.com/ej5vWWS.png)
 [Demo 3](https://i.imgur.com/gYhHGIW.png)
-, Or you can view more demo images [here](https://imgur.com/gallery/8ZQYE9Z)
+, Or you can view more demo images in each sub pages
 
 ## Contents
 
