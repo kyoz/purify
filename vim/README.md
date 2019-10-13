@@ -44,7 +44,7 @@ Purify support consistent color syntax for almost all common languages and file 
 - [x] Html, Html5...
 - [x] Css, Scss, Sass, Less
 - [x] Json, Xml, Markdown
-- [x] Javascript, Typescript
+- [x] Javascript, Typescript (Require [typescript-vim](https://github.com/leafgarland/typescript-vim)'s syntax)
 - [x] Python, Go
 - [x] C, C_++
 - [x] All [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
