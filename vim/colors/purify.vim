@@ -587,6 +587,42 @@ augroup END
 
 " }}}
 
+" Frameworks {{{
+
+" Reactjs {{{
+" Support for 'MaxMEllon/vim-jsx-pretty'
+
+call s:hi('jsxTagName',      { 'fg': s:pink })
+call s:hi('jsxOpenPunct',    { 'fg': s:blue })
+call s:hi('jsxClosePunct',   { 'fg': s:blue })
+call s:hi('jsxCloseString',  { 'fg': s:blue })
+
+" TODO: Add more jsx syntax for react
+" function! s:add_more_jsx_syntax()
+"     syn keyword cDeclarationOverwrite var const type 
+"     syn match jsxBraces       "[{}\[\]]"
+"     syn match jsxParens       "[()]"
+"     syn match jsxOpSymbols    "=\{1,2}\|!=\|<\|>\|>=\|<=\|++\|+=\|--\|-="
+"     syn match jsxEndColons    "[,]"
+"     syn match jsxLogicSymbols "\(&&\)\|\(||\)\|\(!\)"
+
+"     call s:hi('jsxDeclarationOverwrite', { 'fg': s:green, 'styles': [s:styles.italic] })
+"     call s:hi('jsxBraces',               { 'fg': s:blue })
+"     call s:hi('jsxParens',               { 'fg': s:pink })
+"     call s:hi('jsxOpSymbols',            { 'fg': s:pink })
+"     call s:hi('jsxEndColons',            { 'fg': s:pink })
+"     call s:hi('jsxLogicSymbols',         { 'fg': s:blue })
+" endfunction
+
+" augroup purify_jsx
+"     " autocmd!
+"     autocmd Filetype javascriptreact call s:add_more_jsx_syntax()
+" augroup END
+
+" }}}
+
+" }}}
+
 " Plugins {{{
 
 " fzf.vim
