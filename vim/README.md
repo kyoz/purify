@@ -16,6 +16,7 @@
 - [Customize](#customize)
   - [Font styles](#font-styles)
   - [Overrides colors](#overrides-colors)
+- [Why i have to install other plugins](#why-i-have-to-install-other-plugins)
 - [License](#license)
 
 ## Installation
