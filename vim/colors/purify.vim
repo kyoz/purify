@@ -557,6 +557,19 @@ augroup END
 call s:hi('rubyInclude',          { 'fg': s:blue, 'styles': [s:styles.italic] })
 call s:hi('rubyStringDelimiter',  { 'fg': s:yellow })
 
+function! s:overwrite_ruby_highlight()
+    call s:hi('rubyBraces',        { 'fg': s:blue })
+    call s:hi('rubyParens',        { 'fg': s:pink })
+    call s:hi('rubyOpSymbols',     { 'fg': s:pink })
+    call s:hi('rubyEndColons',     { 'fg': s:pink })
+    call s:hi('rubyLogicSymbols',  { 'fg': s:blue })
+endfunction
+
+augroup purify_ruby
+    autocmd!
+    autocmd Filetype ruby call s:overwrite_ruby_highlight()
+augroup END
+
 " }}}
 
 " }}}
