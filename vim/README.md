@@ -49,6 +49,10 @@ Purify support consistent color syntax for almost all common languages and file 
 - [x] C, C_++
 - [x] All [languages](https://github.com/vim/vim/tree/master/runtime/syntax) that vim support til now
 
+## Frameworks support
+
+- [x] React (Require [vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty))
+
 ## Plugins Support
 
 ### Built-in:
@@ -104,6 +108,12 @@ let g:purify_override_colors = {
     \ 'green': { 'gui': '#5FD700', 'cterm': '76' }
 \ }
 ```
+
+## Why i have to install other plugins
+
+- Purify is only aim for colorscheme, i'v tried my best to make purify colorscheme is the same is all languages support by vim, nvim.
+
+- But for new languages, frameworks... you have to install other plugins to have correct syntax, I'll tried my best to support plugins that have good syntax for new languages, frameworks like React, Vue...
 
 ## Lisence
 MIT © [Kyoz](mailto:banminkyoz@gmail.com)
