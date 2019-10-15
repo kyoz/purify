@@ -579,6 +579,7 @@ augroup END
 " Reactjs {{{
 " Support for 'MaxMEllon/vim-jsx-pretty'
 
+call s:hi('jsxTag',            { 'fg': s:white })
 call s:hi('jsxTagName',        { 'fg': s:pink })
 call s:hi('jsxComponentName',  { 'fg': s:salmon })
 call s:hi('jsxOpenPunct',      { 'fg': s:blue })
