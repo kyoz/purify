@@ -3,7 +3,7 @@
 syn keyword jsxDeclarationOverwrite var const type 
 syn match   jsxBraces            "[{}\[\]]"
 syn match   jsxParens            "[()]"
-syn match   jsxOpSymbols         "=\{1,2}\|!=\|<\|>\|>=\|<=\|++\|+=\|--\|-="
+syn match   jsxOpSymbols         "=\{1,3}\|!==\|!=\|<\|>\|>=\|<=\|++\|+=\|--\|-=\|*=\|/=\|%="
 syn match   jsxEndColons         "[,]"
 syn match   jsxLogicSymbols      "\(&&\)\|\(||\)\|\(!\)"
 syn keyword jsxCustomIdentifier  arguments var let const

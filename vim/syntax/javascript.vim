@@ -3,7 +3,7 @@
 
 syn match   javascriptEndColons         "[;,]"
 syn match   javascriptLogicSymbols      "\(&&\)\|\(||\)\|\(!\)"
-syn match   javascriptOpSymbols         "=\{1,3}\|!==\|!=\|<\|>\|>=\|<=\|++\|+=\|--\|-="
+syn match   javascriptOpSymbols         "=\{1,3}\|!==\|!=\|<\|>\|>=\|<=\|++\|+=\|--\|-=\|*=\|/=\|%="
 syn keyword javascriptLabel             case default async readonly
 syn keyword javaScriptThis              this
 syn keyword javaScriptCustomIdentifier  arguments var let const
