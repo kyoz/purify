@@ -2,7 +2,7 @@
 > Purify theme for Ranger
 
 <p align="center">
-  <img src="https://i.imgur.com/q45gXBv.png" width="800px">
+  <img src="https://i.imgur.com/q45gXBv.png" width="480px">
 </p>
 
 ## Installation
