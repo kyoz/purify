@@ -1,4 +1,4 @@
-# Gedit
+# Ranger
 > Purify theme for Ranger
 
 <p align="center">
