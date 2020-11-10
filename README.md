@@ -19,6 +19,10 @@
 ## Contents
 
 - [Features](#features)
+  - [Editors](#editors)
+  - [File Managers](#file-managers)
+  - [Terminals](#terminals)
+  - [Others](#others)
 - [Todo](#todo)
 - [Installation & Usage](#installation-&-usage)
 - [References](#references)
@@ -33,6 +37,10 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [Vim, NeoVim, MacVim](./vim) (Come along with consistent colors of plugins, syntax of almost most popular programing languages...)
 - [x] [Gedit](./gedit)
 - [x] [emacs](./emacs) (:heavy_exclamation_mark: Just minimal support, **need help**)
+
+### File Managers
+
+- [x] [Ranger](./ranger)
 
 ### Terminals
 
