@@ -2,11 +2,11 @@
 > Purify theme for NCMPCPP
 
 <p align="center">
-  <img src="https://i.imgur.com/6mOmOQR.png" width="480px">
+  <img src="https://i.imgur.com/6mOmOQR.png" width="700px">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/uy81dsh.png" width="480px">
+  <img src="https://i.imgur.com/uy81dsh.png" width="700px">
 </p>
 
 ## Installation
