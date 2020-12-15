@@ -62,6 +62,7 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [zsh](./zsh)
 - [x] [fish](./fish)
 - [x] [highlightjs](./highlightjs)
+- [x] [ncmpcpp](./ncmpcpp)
 
 ## Todo
 
