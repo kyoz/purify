@@ -1,28 +1,27 @@
 * {
-    foreground:  #E5E5E5;
-    backlight:   #52565C;
-	background-color: #282C34;
-    dark:        #1c1c1c;
-    black:       #282C34;
-    lightblack:  #52565C;
-    red:         #FF0000;
-    green:       #5FFF87;
-    yellow:      #D19A66;
-    blue:      	 #5FAFFF;
-    magenta:     #AF87FF;
-    cyan:      	 #00FFFF;
-    white:       #FAFAFA;
-	pink:        #FF875F;
-    highlight:   underline bold #5FAFFF;
+    foreground:       #FFFFFF;
+    backlight:        #3E4452;
+	background-color: #282C3484;
+    dark:             #1c1c1c;
+    black:            #282C34;
+    darkerblack:      #16171984;
+    red:              #FF0000;
+    green:            #5FFF87;
+    yellow:           #FFFF87;
+    blue:      	      #5FAFFF;
+    magenta:          #AF87FF;
+    cyan:      	      #5FAFFF;
+    white:            #FFFFFF;
+	pink:             #FF79C6;
+    highlight:        underline #5FAFFF;
 }
 
 #window {
     location: center;
     anchor:   center;
-    padding: 10px;
     border:  0px;
-    border-radius: 10px;
-    color: @magenta;
+    border-radius: 16px;
+    border-color: @pink;
     spacing: 0;
     children:  [mainbox];
     orientation: horizontal;
@@ -34,9 +33,9 @@
 }
 
 #message {
-    border-color: @magenta;
-    border:  0px 2px 2px 2px;
-    padding: 5;
+    border-color: @pink;
+    border:  0px 1px 1px 1px;
+    padding: 8;
     background-color: @green;
 }
 
@@ -46,10 +45,11 @@
 
 #inputbar {
     color: @green;
-    padding: 11px;
-    border: 2px 2px 2px 2px;
-    border-radius:  15px 15px 0px 0px;
-    border-color: @magenta;
+    padding: 12px;
+    border: 1px 1px 1px 1px;
+    border-radius:  12px 12px 0px 0px;
+    border-color: @pink;
+    margin: 16px 16px 0 16px;
 }
 
 #entry,prompt,case-indicator {
@@ -58,33 +58,37 @@
 }
 
 #prompt {
-    margin:     0px 0.3em 0em 0em ;
+    margin: 0px 0.3em 0em 0em ;
 }
 
 #listview {
-    padding: 8px;
-    border-radius: 0px 0px 15px 15px;
-    border-color: @magenta;
-    border: 0px 2px 2px 2px;
+    padding: 0px;
+    border-radius: 0px 0px 12px 12px;
+    border-color: @pink;
+    margin: 0 16px 16px 16px;
+    border: 0px 1px 1px 1px;
     dynamic: false;
     lines: 10;
 }
 
 #element {
+    border-radius: 5px 5px 5px 5px;
     padding: 5px;
+	margin: 3px;
     vertical-align: 0.5;
-    border: 1px;
-	border-color: @pink;
-    border-radius: 4px;
-    color: @green;
+    border: 1 1 1 1;
+	border-color: @magenta;
+    color: @white;
+    font:inherit;
 }
 
 #element selected.normal {
-    background-color: @lightblack;
+    background-color: @darkerblack;
 }
 
 #element normal active {
     foreground: @blue;
+	border-color: @blue;
 }
 
 #element normal urgent {
@@ -137,6 +141,6 @@
 #button selected normal {
     color: @dark;
     border: 2px 0px 2px 2px;
-    background-color: @backlight;
+    background-color: @darkerblack;
     border-color: @foreground;
 }
