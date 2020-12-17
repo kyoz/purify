@@ -41,7 +41,6 @@
 }
 
 #message {
-    font: "Fira code 8";
     color: @black;
 }
 
@@ -51,7 +50,6 @@
     border: 2px 2px 2px 2px;
     border-radius:  15px 15px 0px 0px;
     border-color: @magenta;
-    font: "Fira code 18";
 }
 
 #entry,prompt,case-indicator {
@@ -79,7 +77,6 @@
 	border-color: @pink;
     border-radius: 4px;
     color: @green;
-    font:inherit;
 }
 
 #element selected.normal {
@@ -129,7 +126,6 @@
 }
 
 #button {
-    font: "Fira code 22";
     padding: 6px;
     border: 2px 0px 2px 2px;
     border-radius: 4px 0px 0px 4px;
