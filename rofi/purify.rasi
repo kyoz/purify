@@ -14,7 +14,6 @@
     white:       #FAFAFA;
 	pink:        #FF875F;
     highlight:   underline bold #5FAFFF;
-    font:        "Fira Code 13";
 }
 
 #window {
