@@ -649,7 +649,7 @@ execute 'set background=dark'
 
 
 " Try setting background and foreground colors if user using GUI version
-if has("gui_running")
+if has("gui_running") || exists('g:GuiLoaded')
     hi Normal guifg=#FFFFFF
     hi Normal guibg=#252834
 endif
