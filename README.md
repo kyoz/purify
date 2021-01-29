@@ -24,7 +24,7 @@
   - [Terminals](#terminals)
   - [Others](#others)
 - [Todo](#todo)
-- [Installation & Usage](#installation-&-usage)
+- [Installation & Usage](#installation--usage)
 - [References](#references)
 - [Contributing](#contributing)
 - [License](#license)
