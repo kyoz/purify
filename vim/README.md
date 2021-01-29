@@ -111,7 +111,11 @@ colorscheme purify "--------------------------------- Set onedark theme
 hi Normal guibg=#252834 ctermbg=234 "---- Place this after you set the colorscheme
 ```
 
-#252834
+P/s: If you are nvim-qt, you may need set this to your `ginit.vim`
+
+```
+set background=dark
+```
 
 ### Overrides colors
 
