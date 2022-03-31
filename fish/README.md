@@ -7,6 +7,8 @@
 
 ## Installation
 
+:warning: This will install purify as your default (only) theme, if you like to switch between theme, please use [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) and seperated [purify.fish](https://github.com/kyoz/purify.fish) theme
+
 ```sh
 # With wget
 $ wget https://raw.githubusercontent.com/kyoz/purify/master/fish/purify.fish -O ~/.config/fish/conf.d/purify.fish
