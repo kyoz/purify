@@ -64,6 +64,13 @@ Purify support consistent color theme among terminals, editors and other things:
 - [x] [highlightjs](./highlightjs)
 - [x] [ncmpcpp](./ncmpcpp)
 
+### Fig
+
+Install `purify` with [Fig](https://fig.io) for zsh, fish, or bash in just one click. 
+
+<a href="https://fig.io/plugins/other/purify_kyoz" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
+
+
 ## Todo
 
 I'll look into these terminals & editors when i have time. But mostly the time i'll use to maintain Vim and most used Terminal theme.
